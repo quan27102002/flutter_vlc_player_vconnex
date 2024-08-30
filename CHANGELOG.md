@@ -1,3 +1,6 @@
+## 0.0.4
+
+* Change path IOS
 ## 0.0.3
 
 * Change IOS

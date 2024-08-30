@@ -1,6 +1,6 @@
 name: flutter_vlc_player_vconnex
 description: A VLC-powered alternative to Flutter's video_player. Supports multiple players on one screen.
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/quan27102002/flutter_vlc_player_vconnex
 
 environment:
